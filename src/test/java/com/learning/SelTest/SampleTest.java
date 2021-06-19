@@ -15,7 +15,8 @@ public class SampleTest {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Rana\\Desktop\\Softwares\\chromedriver_win32\\chromedriver.exe");  
         
         // Instantiate a ChromeDriver class.     
-   driver=new ChromeDriver();  
+   driver=new ChromeDriver(); 
+//   Comment added
      
       // Launch Website  
    driver.navigate().to("https://in.yahoo.com/");  
