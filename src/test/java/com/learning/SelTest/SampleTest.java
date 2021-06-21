@@ -18,7 +18,7 @@ public class SampleTest {
    driver=new ChromeDriver(); 
 //   Comment added- 19 June added
      
-      // Launch of yahoo Website here 21/06/2021 
+      // Launch of yahoo Website here 21st June 2021
    driver.navigate().to("https://in.yahoo.com/");  
      
     
